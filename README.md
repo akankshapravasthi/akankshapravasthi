@@ -115,30 +115,6 @@ An AI chatbot built using Python and Streamlit.
 - ☁️ Google Cloud Study Jams 2025–2026
 - 📊 Cisco Data Analytics Essentials
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akankshapravasthi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshapravasthi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=akankshapravasthi&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn  
