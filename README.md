@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**akankshapravasthi/akankshapravasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Akankshapravasthi Chincheti
 
-Here are some ideas to get you started:
+**Software Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Final-Year Information Technology Student
+
+💻 Python • Java • Flask • SQL • JavaScript
+
+🌱 Learning every day, building one project at a time.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a Final-Year Information Technology student passionate about building practical software that solves real-world problems. I enjoy learning new technologies, developing full-stack applications, and continuously improving my programming skills.
+
+Currently focusing on:
+
+- 💻 Full-Stack Development
+- 🤖 AI-powered Applications
+- ☁️ Cloud Computing
+- 📚 Java & Data Structures and Algorithms
