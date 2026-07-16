@@ -129,6 +129,6 @@ An AI chatbot built using Python and Streamlit.
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Learning every day, building one project at a time."*
+*"Learning every day"*
 
 </div>
